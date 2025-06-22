@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: kelime-oyunu
+Version: 1.0.0
+Summary: A word guessing game with tkinter GUI
+Author: Kelime Oyunu Developer
+Author-email: example@example.com
+Keywords: game,word,turkish
+Requires-Python: >=3.6
+Requires-Dist: pyodbc

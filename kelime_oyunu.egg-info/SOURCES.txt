@@ -1,0 +1,7 @@
+README.md
+setup.py
+kelime_oyunu.egg-info/PKG-INFO
+kelime_oyunu.egg-info/SOURCES.txt
+kelime_oyunu.egg-info/dependency_links.txt
+kelime_oyunu.egg-info/requires.txt
+kelime_oyunu.egg-info/top_level.txt
