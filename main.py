@@ -1,5 +1,5 @@
 import tkinter as tk
-# Updated imports for the new flat structure
+# Updated imports for the new flat structure hello world example
 from config import load_settings
 from repository import WordRepository
 from game import GameService, KelimeOyunuView, Word # Import Word here for repository
